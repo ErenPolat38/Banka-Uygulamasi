@@ -152,7 +152,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 5.  Ekrandaki menü talimatlarını izleyerek simülasyonu kullanmaya başlayın.
 
-## 📄 Lisans
 
-Bu proje [MIT Lisansı](https://choosealicense.com/licenses/mit/) altında lisanslanmıştır. Detaylar için `LICENSE.md` dosyasına bakabilirsiniz.
 
